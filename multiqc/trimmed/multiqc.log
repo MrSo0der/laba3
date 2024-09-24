@@ -1,0 +1,19 @@
+[2024-09-22 20:03:11,793] multiqc                                            [DEBUG  ]  This is MultiQC v1.13
+[2024-09-22 20:03:11,793] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc .
+[2024-09-22 20:03:17,007] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check: <urlopen error timed out>
+[2024-09-22 20:03:17,007] multiqc                                            [DEBUG  ]  Working dir : /home/avgulev_1/platanus/int
+[2024-09-22 20:03:17,007] multiqc                                            [DEBUG  ]  Template    : default
+[2024-09-22 20:03:17,007] multiqc                                            [DEBUG  ]  Running Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+[2024-09-22 20:03:17,008] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, snpsplit, odgi, pangolin, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, pychopper, pycoqc, minionqc, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2024-09-22 20:03:17,008] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpzhkrnp90
+[2024-09-22 20:03:17,075] multiqc                                            [INFO   ]  Search path : /home/avgulev_1/platanus/int
+[2024-09-22 20:03:17,334] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 44] // [skipped_no_match: 8] // [skipped_filesize_limit: 4]
+[2024-09-22 20:03:17,534] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.0
+[2024-09-22 20:03:17,535] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.0
+[2024-09-22 20:03:17,535] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-09-22 20:03:17,556] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 4 reports
+[2024-09-22 20:03:17,599] multiqc                                            [INFO   ]  Compressing plot data
+[2024-09-22 20:03:17,642] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2024-09-22 20:03:17,642] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2024-09-22 20:03:17,642] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpzhkrnp90/multiqc_data' to '/home/avgulev_1/platanus/int/multiqc_data'
+[2024-09-22 20:03:17,693] multiqc                                            [INFO   ]  MultiQC complete

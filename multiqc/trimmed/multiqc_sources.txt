@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	me1	/home/avgulev_1/platanus/int/me1.fq.int_trimmed_fastqc.zip
+FastQC	all_sections	me2	/home/avgulev_1/platanus/int/me2.fq.int_trimmed_fastqc.zip
+FastQC	all_sections	pe1	/home/avgulev_1/platanus/int/pe1.fq.trimmed_fastqc.zip
+FastQC	all_sections	pe2	/home/avgulev_1/platanus/int/pe2.fq.trimmed_fastqc.zip
