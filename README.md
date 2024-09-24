@@ -80,9 +80,14 @@ platanus gap_close \
 
 ![MultiQC initial reads quality](/multiqc/initial/image.png "Качество исходных чтений")
 
-[Ссылка]() на полный отчет в формате HTML
+[Ссылка](https://mrso0der.github.io/hse24_hw1/multiqc/initial/multiqc_report.html) на полный отчет в формате HTML
 
-Ссылка на все output-файлы MultiQC
+[Ссылка](https://github.com/MrSo0der/hse24_hw1/tree/main/multiqc/initial) на все output-файлы MultiQC
 
 ### Подрезанные чтения
 
+![MultiQC initial reads quality](/multiqc/trimmed/image.png "Качество подрезанных чтений")
+
+[Ссылка](https://mrso0der.github.io/hse24_hw1/multiqc/trimmed/multiqc_report.html) на полный отчет в формате HTML
+
+[Ссылка](https://github.com/MrSo0der/hse24_hw1/tree/main/multiqc/trimmed) на все output-файлы MultiQC
