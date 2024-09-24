@@ -91,3 +91,5 @@ platanus gap_close \
 [Ссылка](https://mrso0der.github.io/hse24_hw1/multiqc/trimmed/multiqc_report.html) на полный отчет в формате HTML
 
 [Ссылка](https://github.com/MrSo0der/hse24_hw1/tree/main/multiqc/trimmed) на все output-файлы MultiQC
+
+## [Ссылка на jupiter ноутбуки](https://github.com/MrSo0der/hse24_hw1/tree/main/src)
