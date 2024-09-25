@@ -42,8 +42,8 @@ platanus_internal_trim -i me.fofn -a 2 -q 20
 Оценка качества подрезанных чтений с помощью FastQC и MultiQC
 
 ```shell
-fastqc pe1.fq.int_trimmed
-fastqc pe2.fq.int_trimmed
+fastqc pe1.fq.trimmed
+fastqc pe2.fq.trimmed
 fastqc me1.fq.int_trimmed
 fastqc me2.fq.int_trimmed
 multiqc .
